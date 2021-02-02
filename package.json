@@ -1,0 +1,22 @@
+{
+  "name": "msgparser",
+  "version": "1.0.0",
+  "description": "Parses Outlook messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/boydhont/MsgParser.git"
+  },
+  "author": "Boy d'Hont",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/boydhont/MsgParser/issues"
+  },
+  "homepage": "https://github.com/boydhont/MsgParser#readme",
+  "dependencies": {
+    "mailparser": "^3.0.1"
+  }
+}
