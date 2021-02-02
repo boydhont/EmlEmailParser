@@ -1,0 +1,2 @@
+# MsgParser
+Parses Outlook messages
