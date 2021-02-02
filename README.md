@@ -1,2 +1,2 @@
 # MsgParser
-Parses Outlook messages
+Parses Eml Email messages
